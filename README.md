@@ -22,7 +22,8 @@ The analysis of the data from the election showed that the clear winner, based o
 
 The winner was of Colorado's congressional election was Diane DeGette. Her decisive victory showed she was the strongest candidate in this race. 
  
-Fig. 1 ![command_line_printed_results](./resources/winner_results_.png)
+### Fig. 1
+![winner_results.png](./resources/winner_results_.png)
 
 
 ## Resources
