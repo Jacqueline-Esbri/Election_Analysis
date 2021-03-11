@@ -35,7 +35,7 @@ The winner of Colorado's congressional election was Diane DeGette. Her decisive 
 
 ## Resources
 
-During this assignment, we were introduced to Python; the most widely used programming language used as a scripting language for web applications. Python efficiently enabled the process of writing algorithms to analyze the election results. This programming language has risen in popularity due to its simple structure, efficiency in automating a specific series of tasks, and ease to read and maintain. Additionaly, it has a broad standard library. 
+During this assignment, we were introduced to Python; the most widely used programming language used as a scripting language for web applications. Python efficiently enabled the process of writing algorithms to analyze the election results. This programming language has risen in popularity due to its simple structure, efficiency in automating a specific series of tasks, and ease to read and maintain. Python also has a broad standard library. 
 
 Python was not the only tool used to execute the scripts needed for the analysis. Visual Studio code (VS Code), another powerful tool, was configured to use the Python environment installed. VS Code provides helpul integration features that can be used for working with different environments. This free text editor is one of the most popular developer tools. 
 
