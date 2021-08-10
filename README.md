@@ -1,7 +1,7 @@
-# Election_Analysis
+# Election Analysis
 ![mod3.png](Resources/mod3.png)
 
-## Overview of Election Audit
+## Overview 
 
 For this project, the task entailed tabulating and auditing results of a local congressional election. There were three candidates: Diana DeGette; Charles Casper Stockham; Raymon Anthony Doane. The data regarding the election, votes, and candidates was provided in a CSV file. The following was performed to complete the analysis:
 
@@ -12,7 +12,7 @@ For this project, the task entailed tabulating and auditing results of a local c
 - Determine the winner of election based on popular vote
 - Analyze votes by county
 
-## Election Audit Results
+## Results
 
 - There were 369,711 casted votes
 - DeGette received 73.8% of the votes casted (total of 272,892 votes)
@@ -39,7 +39,7 @@ Visual Studio Code (VS Code), another powerful tool, was configured to use the P
 
  Having these two programs working in conjunction to analyze the data made the workflow faster and increased productivity. The Python version required for this project was 3.7.6, but version 3.8.5 was a better choice for security reasons. The version of VS Code used was 2.3.0. 
 
-## Election-Audit Summary
+## Summary
 
 This script was tested for errors during the coding process. The detailed script may be used as a template for future district elections. In addition, the script may be used for other purposes as well (e.g., school districts, state-wide elections). The script is user friendly, easy to follow and interpret. 
 
