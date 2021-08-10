@@ -27,7 +27,7 @@ Denver, Jefferson, and Arapahoe counties were also analyzed for this analysis. I
 ### Fig. 1
 ![winner_results.PNG](Resources/winner_results.png)
 
-### Fig. 3
+### Fig. 2
  ![command_line_printed_results.PNG](Resources/command_line_printed_results.png)
 
 
