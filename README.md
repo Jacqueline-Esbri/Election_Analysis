@@ -1,6 +1,7 @@
 # Election Analysis
 ![mod3.png](Resources/mod3.png)
 
+
 ## Overview 
 
 For this project, the task entailed tabulating and auditing results of a local congressional election. There were three candidates: Diana DeGette; Charles Casper Stockham; Raymon Anthony Doane. The data regarding the election, votes, and candidates was provided in a CSV file. The following was performed to complete the analysis:
@@ -11,6 +12,7 @@ For this project, the task entailed tabulating and auditing results of a local c
 - Retrieve vote count of the candidates
 - Determine the winner of election based on popular vote
 - Analyze votes by county
+
 
 ## Results
 
@@ -33,15 +35,22 @@ Denver, Jefferson, and Arapahoe counties were also analyzed for this analysis. I
 
 ## Resources
 
-During this assignment, we were introduced to Python; the most widely used programming language used as a scripting language for web applications. Python efficiently enabled the process of writing algorithms to analyze the election results. Python has risen in popularity due to its simple structure, efficiency in automating a specific series of tasks, and ease to read and maintain. It also has a broad standard library. 
+During this assignment, the power of Python was used to automate the vote-counting process for the election. The knowledge of variables, arrays, conditionals, and loops was applied for the following:
+
+- Create scripts that read, write, and store data from files or in arrays
+- Perform mathematical operations
+- Use decision statements, logical operations for complex comparisons, and repetition statements to run code more than once
+- Produce screen outputs
 
 Visual Studio Code (VS Code), another powerful tool, was configured to use the Python environment installed. VS Code provides helpful integration features that can be used for working with different environments.
 
  Having these two programs working in conjunction to analyze the data made the workflow faster and increased productivity. The Python version required for this project was 3.7.6, but version 3.8.5 was a better choice for security reasons. The version of VS Code used was 2.3.0. 
 
+
 ## Summary
 
-This script was tested for errors during the coding process. The detailed script may be used as a template for future district elections. In addition, the script may be used for other purposes as well (e.g., school districts, state-wide elections). The script is user friendly, easy to follow and interpret. 
+This script was tested for errors during the coding process. The detailed script may be used as a template for future district elections. In addition, the script may be used for other purposes as well (e.g., school districts, state-wide elections). The script is user friendly, easy to follow, and interpret. 
+
 
 ## Recommendation
 
